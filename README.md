@@ -22,8 +22,8 @@
 <main>
   <section>
     <h2>About Me</h2>
-    <p>I'm Laxman Bhattarai, a total gaming buff with a big dream: I want to become a game developer! Ever since I was a kid, I've been absolutely hooked on video games. There's just something about diving into those virtual worlds and getting lost in the stories that really get me going. I've spent countless hours playing games, but I'm not just about the playing—I'm also super curious about how these games are made. So, I've been diving into the world of game development, learning as much as I can so that one day, I can create my own games. For me, it's not just about landing a job—it's about turning my passion into a career where I can share the joy of gaming with others</p>
-    <p><strong>My goal is to become a skilled game developer and create my own games that bring joy to players around the world.</strong></p>
+    <p>I'm Laxman Bhattarai, a total gaming buff with a big dream: I want to become a game developer! I've been hooked on video games since I was a kid. There's something about diving into those virtual worlds and getting lost in the stories that get me going. I've spent countless hours playing games, but I'm not just about the playing—I'm also super curious about how these games are made. So, I've been diving into the world of game development, learning as much as I can so that one day, I can create my own games. For me, it's not just about landing a job—it's about turning my passion into a career where I can share the joy of gaming with others</p>
+    <p><strong>My goal is to become a skilled game developer and create my own games that bring joy to players worldwide.</strong></p>
   </section>
 
   <section>
